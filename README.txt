@@ -12,7 +12,7 @@ This project aims to do the following steps:
 3. Try some aggregation of the models to find the best result:
    i. Stack: Simply taking the mean of the prediction of combined models.
    ii. Logistic Regression: Train a Logistic Regression using the predictions as data and ground truth as target.
-   iii. Weighted Sum Optimization: Similarly treating predictions as data and ground truth as target, tran the weights of the sum.
+   iii. Weighted Sum Optimization: Similarly treating predictions as data and ground truth as target, train the weights of the sum.
 4. The best result was uploaded and was given a private score of 0.96242.
 
 Description of the Files:
